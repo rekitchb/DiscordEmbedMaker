@@ -1,0 +1,18 @@
+{
+  "name": "embed-maker",
+  "version": "1.0.0",
+  "description": "The ultimate instant embed maker",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Kazaki Shirogane <github@stellarzluna>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "discord.js": "^12.5.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}

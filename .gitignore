@@ -1,0 +1,10 @@
+# Environment Variable
+.env
+
+# Vim session
+.vimsession
+
+# NodeJS Package
+node_modules
+package-lock.json
+
