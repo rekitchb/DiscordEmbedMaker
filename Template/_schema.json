@@ -420,6 +420,16 @@
 													"examples": [
 														"some of these properties have certain limits..."
 													]
+												},
+												"inline": {
+													"$id": "#/properties/message/items/anyOf/0/properties/fields/items/anyOf/0/properties/inline",
+													"type": "boolean",
+													"title": "The inline schema",
+													"description": "An explanation about the purpose of this instance.",
+													"default": "false",
+													"examples": [
+														"true"
+													]
 												}
 											},
 											"additionalProperties": true
